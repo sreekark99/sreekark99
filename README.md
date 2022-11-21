@@ -3,7 +3,7 @@
 and leadership skills!
 - 📚 I've worked on Full Stack Web Dev, ML algorithms and like to participate in Competitive Programming (C++/Python)
 - 🌱 I’m currently learning Advanced DS and algorithms!
-- 💞️ I’m looking to collaborate on ML DL projects and build a ML-based web-service!
+- 💞️ I’m looking forward to collaborate on ML DL projects and build a ML-based web-service!
 - 📫 Feel free to reach me at sreekark99@gmail.com
 - ✌️ Cheerios!
 
